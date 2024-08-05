@@ -3,7 +3,7 @@
 
 Render a React component on the server and add interactivity via hydration.
 
-❗ This approach is not-very-good ™️️ . Prefer the [official docs](https://docs.deno.com/runtime/tutorials/how_to_with_npm/react/)
+❗ This approach is not-very-good ™️️ . Prefer the [official docs](https://docs.deno.com/runtime/tutorials/how_to_with_npm/react/) if you don't mind [vite](https://vitejs.dev/)
 
 Dependencies:
 
